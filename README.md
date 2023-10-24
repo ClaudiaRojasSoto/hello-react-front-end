@@ -8,6 +8,7 @@
 
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 hello\_rails\_front\_end ](#-hello_rails_front_end-)
+  - [💻 link to back end ](#-link-to-back-end-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,6 +30,14 @@
 # 📖 hello_rails_front_end <a name="about-project"></a>
 
 **hello_rails_front_end** This is a simple React-Redux application named 'hello-react-front-end'. It features a main App component using react-router to manage navigation. One of the routes leads to a Greeting component, which displays a random greeting message fetched from an API. The app uses Redux for state management, specifically for handling API calls and updating the greeting message.
+
+## 💻 link to back end <a name="built-with"></a>
+
+
+[Link to Back End](https://github.com/ClaudiaRojasSoto/hello-rails-back-end)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
